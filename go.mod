@@ -19,3 +19,5 @@ require (
 )
 
 replace github.com/go-openapi/strfmt => github.com/kubewarden/strfmt v0.1.3
+
+replace github.com/kubewarden/policy-sdk-go => github.com/jvanz/policy-sdk-go v0.5.2
