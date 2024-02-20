@@ -9,7 +9,7 @@ questions:
   hide_input: true
   type: string
   variable: description
-- default: {}
+- default: null
   description: Defines the limit and minimum amount requested for CPU resource
   group: Settings
   label: CPU
@@ -38,7 +38,7 @@ questions:
       label: Max CPU limit allowed
       type: string
       variable: cpu.maxLimit
-- default: {}
+- default: null
   description: Defines the limit and minimum amount requested for memory resource
   group: Settings
   label: Memory
