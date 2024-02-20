@@ -6,7 +6,7 @@
 #   kwctl scaffold artifacthub > artifacthub-pkg.yml 
 version: 0.1.1
 name: container-resources
-displayName: Container Resources
+displayName: Jvanz Container Resources
 createdAt: 2024-02-20T17:53:51.234488013Z
 description: Policy is designed to enforce constraints on the resource requirements of Kubernetes containers
 license: Apache-2.0
